@@ -40,7 +40,7 @@
    
 * \[2020/04\] [**ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for ASR of Contact Centers**](https://arxiv.org/abs/2004.09367)  
   
-* \[2020/05\] [**ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context**](https://arxiv.org/abs/2005.03191)  
+* \[2020/05\] [**ContextNet: Improving Convolutional Neural Networks for ASR with Global Context**](https://arxiv.org/abs/2005.03191)  
   
 * \[2020/05\] [**Conformer: Convolution-augmented Transformer for Speech Recognition**](https://arxiv.org/abs/2005.08100)  
   
