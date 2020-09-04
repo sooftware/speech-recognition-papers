@@ -22,11 +22,17 @@
   
 * \[2017/12\] [**An Analsis Of Incorporating An External Language Model Into A Sequence-to-Sequence Model**](https://arxiv.org/abs/1712.01996)   
   
+* \[2018/04\] [**Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition**](https://ieeexplore.ieee.org/document/8462506)  
+  
 * \[2019/02\] [**On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition**](https://arxiv.org/abs/1902.01955)  
   
 * \[2019/04\] [**SpecAugment:  A Simple Data Augmentation Method for Automatic Speech Recognition**](https://arxiv.org/abs/1904.08779)  
   
+* \[2019/04\] [**wav2vec: Unsupervised Pre-training for Speech Recognition**](https://arxiv.org/abs/1904.05862?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)  
+  
 * \[2019/05\] [**Transformers with convolutional context for ASR**](https://arxiv.org/abs/1904.11660)  
+  
+* \[2019/08\] [**Korean Grapheme Unit-based Speech Recognition Using Attention-CTC Ensemble Network**](https://ieeexplore.ieee.org/abstract/document/8836146)  
   
 * \[2019/11\] [**End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures**](https://arxiv.org/abs/1911.08460)  
   
