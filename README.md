@@ -19,7 +19,7 @@
   
 * \[2017/07\] [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762)   
   
-* \[2017/12\] [**State-of-the-art Speech Recognition With Sequence-to-Sequence Models**](https://arxiv.org/abs/1712.01769) 
+* \[2017/12\] [**State-of-the-art Speech Recognition with Sequence-to-Sequence Models**](https://arxiv.org/abs/1712.01769) 
   
 * \[2017/12\] [**An Analsis Of Incorporating An External Language Model Into A Sequence-to-Sequence Model**](https://arxiv.org/abs/1712.01996)   
   
