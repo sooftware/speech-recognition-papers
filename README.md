@@ -14,7 +14,7 @@
   
 * \[2015/12\] [**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**](https://arxiv.org/abs/1512.02595)  
   
-* \[2017/06\] [**Advances in Joint CTC-Attention based E2E Speech Recognition with a DeepCNN Encoder and RNNLM**](https://arxiv.org/abs/1706.02737)   
+* \[2017/06\] [**Advances in Joint CTC-Attention based E2E ASR with a Deep CNN Encoder and RNN-LM**](https://arxiv.org/abs/1706.02737)   
   
 * \[2017/07\] [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762)   
   
