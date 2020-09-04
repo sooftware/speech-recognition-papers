@@ -35,6 +35,8 @@
   
 * \[2019/08\] [**Korean Grapheme Unit-based Speech Recognition Using Attention-CTC Ensemble Network**](https://ieeexplore.ieee.org/abstract/document/8836146)  
   
+* \[2019/08\] [**Jasper: An End-to-End Convolutional Neural Acoustic Model**](https://arxiv.org/pdf/1904.03288.pdf)  
+  
 * \[2019/11\] [**End-to-end ASR: from Supervised to Semi-Supervised Learning with Modern Architectures**](https://arxiv.org/abs/1911.08460)  
   
 * \[2019/12\] [**SpecAugment on Large Scale Datasets**](https://arxiv.org/abs/1912.05533)  
