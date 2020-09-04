@@ -1,6 +1,7 @@
-# <h1 align="center">:star2: Awesome Speech Papers :star2:</h1>
+# <h1 align="center">:star2: Awesome ASR Papers :star2:</h1>
   
 <p align=center><i> End-to-End, Listen-Attend-Spell, Speech-Transformer, RNN-Transducer </i></p>  
+  
   
 * \[2012/11\] [**Sequence Transduction with Recurrent Neural Networks**](https://arxiv.org/abs/1211.3711)   
   
